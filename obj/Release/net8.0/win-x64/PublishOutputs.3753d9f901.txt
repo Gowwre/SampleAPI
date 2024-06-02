@@ -1,0 +1,12 @@
+D:\app\SampleAPI.exe
+D:\app\appsettings.Development.json
+D:\app\appsettings.json
+D:\app\SampleAPI.dll
+D:\app\SampleAPI.deps.json
+D:\app\SampleAPI.runtimeconfig.json
+D:\app\SampleAPI.pdb
+D:\app\Microsoft.AspNetCore.OpenApi.dll
+D:\app\Microsoft.OpenApi.dll
+D:\app\Swashbuckle.AspNetCore.Swagger.dll
+D:\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\app\Swashbuckle.AspNetCore.SwaggerUI.dll
